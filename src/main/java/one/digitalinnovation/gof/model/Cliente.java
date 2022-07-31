@@ -6,6 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
+// @Data LOMBOK GETTERS AND SETTERS
 @Entity
 public class Cliente {
 
